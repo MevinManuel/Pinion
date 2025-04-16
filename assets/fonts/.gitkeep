@@ -1,0 +1,5 @@
+await Font.loadAsync({
+  'Poppins-Regular': require('../../assets/fonts/Poppins-Regular.ttf'),
+  'Poppins-Bold': require('../../assets/fonts/Poppins-Bold.ttf'),
+  'Lobster-Regular': require('../../assets/fonts/Lobster-Regular.ttf'),
+});

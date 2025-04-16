@@ -1,0 +1,48 @@
+{
+  "expo": {
+    "name": "Pinion",
+    "slug": "geo",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/pinion.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/pinion.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/pinion.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.pinion.app",
+      "versionCode": 1,
+      "permissions": [
+        "ACCESS_COARSE_LOCATION",
+        "ACCESS_FINE_LOCATION"
+      ]
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "plugins": [
+      "expo-font"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "c144bc57-f979-4982-9f9c-77494ab4dfb7"
+      }
+    },
+    "owner": "winterchan"
+  }
+}
