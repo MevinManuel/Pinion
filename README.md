@@ -61,6 +61,8 @@ bash
 Copy
 Edit
 npx react-native run-android
+
+```
 Make sure:
 
 USB debugging is enabled on your Android device
@@ -80,7 +82,6 @@ attachments/assets/38ceb0a3-bae0-4cf4-bb7d-254b43530f07)
 ![IMG-20250416-WA0007](https://github.com/user-attachments/assets/f8d85754-4e39-4432-a81c-cd2ed40559dd)
 ![IMG-20250416-WA0009](https://github.com/user-attachments/assets/d920498a-516a-45bb-9cdc-fb6bc81794b7)
 ![IMG-20250416-WA0010](https://github.com/user-attachments/assets/1cb251f0-af18-4a17-bafa-23c1941b4fe9)
-
 
 📌 Roadmap
  Implement OpenStreetMap support (planned)
